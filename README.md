@@ -1,10 +1,30 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<div align="center">
+  <h1>Api de receitas</h1>
+</div>
+
+## Descrição
+A empresa desenvolveu um aplicativo de Receitas que está totalmente funcional 😉. Agora, ela quer expandir esse negócio e criar uma api de receitas que vai retornar todas as receitas disponíveis, adicionar, remover e atualizar as mesmas. Além disso, a empresa deseja que seja possível cadastrar, remover, consultar e atualizar dados de usuários do app e permitir o cadastro e consulta de comentários nessas receitas.
+
+Recebi a atribuição de desenvolver essa api de receitas com <strong>ASP.NET</strong>. Todos os services com os modelos de dados já estão disponíveis.
+
+## Fluxos
+
+* Receitas:
+
+Listar todas as receitas disponíveis.
+Adicionar, remover e atualizar receitas.
+
+* Usuários:
+
+Cadastrar, remover, consultar e atualizar dados de usuários.
+
+* Comentários:
+
+Permitir o cadastro e consulta de comentários para as receitas.
+
+## Habilidades
+
+* Entender do funcionamento do ASP.NET e como ele se integra ao C#.
+* Entender da arquitetura MVC.
+* Criar controllers que recebam dados pelo corpo e pela URL da requisição.
+* Lançar códigos de retorno que respeitem o padrão do HTTP Status Code.
