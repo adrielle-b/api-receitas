@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Api de receitas</h1>
+  <h1>Api de receitas :spaghetti:</h1>
 </div>
 
 ## Descrição
